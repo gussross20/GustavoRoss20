@@ -96,7 +96,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/GustavoRoss20/GustavoRoss20/output/snake.svg" alt="Snake animation" />
-
-###
