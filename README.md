@@ -20,7 +20,10 @@
 
 ###
 
-<p align="left">I am passionate about technology and programming. I love solving complex problems and creating efficient solutions. I have experience in [technologies/programming languages you are proficient in], and I am always looking to learn new things and improve my skills.</p>
+<p align="left">
+I am passionate about technology and programming. I love solving complex problems and creating efficient solutions. I have experience in web technologies, including managing the .NET platform, and mobile application development for Android. I am always looking to learn new things and improve my skills.
+</p>
+
 
 ###
 
@@ -112,9 +115,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoRoss20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=GustavoRoss20&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/GustavoRoss20/GustavoRoss20/output/snake.svg" alt="Snake animation" />
-
-###
