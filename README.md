@@ -105,8 +105,3 @@ I am passionate about technology and programming. I love solving complex problem
   <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
